@@ -1,5 +1,7 @@
 # Desafio-Escribo
 
+Para visualizar o código aqui no Github, escolha a branch "testeEscribo"
+
 Para testar o aplicativo sem erros recomenda-se o uso do Replit (https://replit.com):
 
 Primeiro efetue login na plataforma online, na página principal do referido site procure pelo botão "Create Repl", 
